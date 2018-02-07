@@ -176,7 +176,7 @@ def runNgrok():
     url.close()
 
 def runServer():
-    system("cd Server/www/ && sudo php -S 127.0.0.1:80")
+    system("cd Server/www/ && php -S 127.0.0.1:80")
 
 if __name__ == "__main__":
     try:
