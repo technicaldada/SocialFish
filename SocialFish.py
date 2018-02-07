@@ -168,7 +168,7 @@ def runPEnv():
         exit(0)
 
 def runNgrok():
-    system('./Server/ngrok http 80 > /dev/null &')
+    system('./Server/ngrok http 8080 > /dev/null &')
     sleep(10)
     system('curl -s http://127.0.0.1:4040/status | grep -P "https://.*?ngrok.io" -oh > ngrok.url')
     url = open('ngrok.url', 'r')
@@ -176,7 +176,7 @@ def runNgrok():
     url.close()
 
 def runServer():
-    system("cd Server/www/ && php -S 127.0.0.1:80")
+    system("cd Server/www/ && php -S 127.0.0.1:8080")
 
 if __name__ == "__main__":
     try:
