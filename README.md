@@ -29,7 +29,7 @@ Github: <a href="https://github.com/technicaldada">Github</a>
 * **Termux - 4.7 (arm devices)**
 ### CLONE
 ```
-git clone https://github.com/UndeadSec/SocialFish.git
+git clone https://github.com/technicaldada/SocialFish
 ```
 
 ### RUNNING
