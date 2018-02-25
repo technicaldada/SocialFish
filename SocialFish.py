@@ -102,7 +102,7 @@ def waitCreds():
 
 def runPEnv():
     system('clear')
-    print '''           {2}-{1} UNDEADSEC {2}|{1} t.me/UndeadSec {2}|{1} youtube.com/c/UndeadSec {2}- BRAZIL
+    print '''           {2}-{1} Technical Dada {2}|{1} technicaldada.in {2}|{1}  {2}- INDIA
                           '
                         '   '
                       '       '
@@ -116,7 +116,7 @@ def runPEnv():
 /\____) | (___) | (____/\__) (__| )   ( | (____/\  | )     ___) (__/\____) | )   ( |
 \_______|_______|_______|_______//     \(_______/  |/      \_______|_______)/     \|
       .    '   '....'               ..'.      ' .
-         '  .                     .     '          '     '  {1}v1.0{2} 
+         '  .                     .     '          '     '  {1}v2.0{2} 
                '  .  .  .  .  . '.    .'              '  .
                    '         '    '. '      {1}Website: https//technicaldada.in{2}    
                      '       '      '             
