@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 #       SOCIALFISH
-#     by: UNDEADSEC
+#     by: Technical Dada
 #
 ###########################
 from time import sleep
@@ -55,13 +55,11 @@ def end():
               |/     / / / / / / /             \_   {1}ME !{2}  _)
                           {1}F I S H{2}                ~--___--~
 
-{1}[ {0}Watch us on YouTube:{1} https://youtube.com/c/UndeadSec ]
+{1}[ {0}Watch us on YouTube:{1} https://www.youtube.com/channel/UCEYp5dNTfuemzPdVxj2T9bw ]
 
-[ {0}Follow me on Twitter:{1} https://twitter.com/A1S0N_ ]
+[ {0}Follow mt Blog:{1} http://technicaldada.in ]
 
-[ {0}Contribute on Github:{1} https://github.com/UndeadSec/SocialFish ]
-
-[ {0}Join our Telegram Group(Portuguese):{1} https://t.me/UndeadSec ]\n'''.format(GREEN, END, CYAN)
+[ {0}Contribute on Github:{1} https://github.com/technicaldada/SocialFish ]\n'''.format(GREEN, END, CYAN)
 
 def loadModule(module):
        print '''{0}
@@ -110,15 +108,17 @@ def runPEnv():
                       '       '
                  .  '  .        '                        '
              '             '      '                   '   '
-  ███████ ████████ ███████ ██ ███████ ██       ███████ ██ ███████ ██   ██ 
-  ██      ██    ██ ██      ██ ██   ██ ██       ██      ██ ██      ██   ██ 
-  ███████ ██    ██ ██      ██ ███████ ██       █████   ██ ███████ ███████ 
-       ██ ██    ██ ██      ██ ██   ██ ██       ██      ██      ██ ██   ██ 
-  ███████ ████████ ███████ ██ ██   ██ ███████  ██      ██ ███████ ██   ██ 
+  (  ____ (  ___  |  ____ \__   __(  ___  | \        (  ____ \__   __(  ____ \\     /|
+| (    \/ (   ) | (    \/  ) (  | (   ) | (        | (    \/  ) (  | (    \/ )   ( |
+| (_____| |   | | |        | |  | (___) | |        | (__      | |  | (_____| (___) |
+(_____  ) |   | | |        | |  |  ___  | |        |  __)     | |  (_____  )  ___  |
+      ) | |   | | |        | |  | (   ) | |        | (        | |        ) | (   ) |
+/\____) | (___) | (____/\__) (__| )   ( | (____/\  | )     ___) (__/\____) | )   ( |
+\_______|_______|_______|_______//     \(_______/  |/      \_______|_______)/     \|
       .    '   '....'               ..'.      ' .
          '  .                     .     '          '     '  {1}v1.0{2} 
                '  .  .  .  .  . '.    .'              '  .
-                   '         '    '. '      {1}Twitter: https://twitter.com/A1S0N_{2}    
+                   '         '    '. '      {1}Website: https//technicaldada.in{2}    
                      '       '      '             
                        ' .  '
                            '
@@ -137,7 +137,7 @@ def runPEnv():
         exit(0)
     if raw_input(" {0}[{1}!{0}]{1} Do you will use this tool only for educational purposes? (y/n)\n {2}SF > {1}".format(RED, END, CYAN)).upper() == 'N':
         system('clear')
-        print '\n[ {0}YOU ARE NOT AUTHORIZED TO USE THIS TOOL{1} ]\n'.format(RED, END)
+        print '\n[ {0}YOU ARE NOT ALLOWED TO USE THIS TOOL{1} ]\n'.format(RED, END)
         exit(0)
     option = raw_input("\nSelect an option:\n\n {0}[{1}1{0}]{1} Facebook\n\n {0}[{1}2{0}]{1} Google\n\n {0}[{1}3{0}]{1} LinkedIN\n\n {0}[{1}4{0}]{1} Github\n\n {0}[{1}5{0}]{1} StackOverflow\n\n {0}[{1}6{0}]{1} WordPress\n\n {0}SF >  {1}".format(CYAN, END))
     if option == '1':
