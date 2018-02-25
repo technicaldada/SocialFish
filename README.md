@@ -2,14 +2,12 @@
   <img src="https://raw.githubusercontent.com/UndeadSec/SocialFish/master/social.png">  
 </p>
 
-<p>
 ███████╗ ██████╗  ██████╗██╗ █████╗ ██╗         ███████╗██╗███████╗██╗  ██╗
 ██╔════╝██╔═══██╗██╔════╝██║██╔══██╗██║         ██╔════╝██║██╔════╝██║  ██║
 ███████╗██║   ██║██║     ██║███████║██║         █████╗  ██║███████╗███████║
 ╚════██║██║   ██║██║     ██║██╔══██║██║         ██╔══╝  ██║╚════██║██╔══██║
 ███████║╚██████╔╝╚██████╗██║██║  ██║███████╗    ██║     ██║███████║██║  ██║
 ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚══════╝╚═╝  ╚═
-</p>
 <p align="center" clolor="red">
   Ultimate phishing tool with Ngrok integrated. Now wih easy Supports in Termux with fixes some bugs. Originally created by UnderSec.
 </p>
