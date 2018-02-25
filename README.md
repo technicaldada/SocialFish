@@ -9,7 +9,7 @@
 
 ### MAINTAINERS
 * **Technical Dada** | 
-Website: <a href="http://technicaldada.in_">@Technical Dada Blog</a>
+Website: <a href="http://technicaldada.in_">Technical Dada Blog</a>
 Github: <a href="https://github.com/technicaldada">Github</a>
 
 ### PREREQUISITES
