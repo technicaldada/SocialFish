@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/UndeadSec/SocialFish/master/social.png">  
 </p>
 
-<h1 align="center">SocialFish v1.0</h1>
-<p align="center">
-  Ultimate phishing tool with Ngrok integrated. Now wih esy Supports in Termux with fixes some bugs. Originally created by UnderSec.
+<h1 align="center">SocialFish v2.0</h1>
+<p align="center" clolor="red">
+  Ultimate phishing tool with Ngrok integrated. Now wih easy Supports in Termux with fixes some bugs. Originally created by UnderSec.
 </p>
 
 ### MAINTAINERS
